@@ -52,6 +52,7 @@ const defaultMenu = {
 │ Database : %rtotalreg of %totalreg
 │ Github :
 │ %github
+│Youtube : https://YouTube.com/c/OMTOSLURR
 │
 │
 │ Group 1 :

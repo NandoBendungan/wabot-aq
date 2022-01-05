@@ -21,7 +21,7 @@ teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
 
-global.owner = ['6289677763976', '79224816516'] // Put your number here
+global.owner = ['6282331243615', '79224816516'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -48,8 +48,8 @@ const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
  // var sticker_name = 'I hope you\'re fine'
-  //var sticker_author = 'Nurutomo'
-  var sticker_name = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧' // ganti aja
+  //var sticker_author = 'NIghtBot'
+  var sticker_name = 'NightBotV1' // ganti aja
 
 var sticker_author = '' // ganti aja
 } else {
@@ -87,8 +87,8 @@ gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
 namaig = 'https://instagram.com/bah.raid'
 linkf = gc1
 linkff = namaig
-namabot = 'ChokiBot'
-namagithub = 'https://github.com/RTeam1'
+namabot = 'NightBot'
+namagithub = 'https://github.com/NandoBendungan'
 gcid = '972502255007-1406453544'
 footer = 'ChokiBot'
 lolkey = 'rey2k21'
